@@ -1,3 +1,3 @@
-# 02 Form Validator (vanilla js 20 projects)
+# 01 Form Validator (vanilla js 20 projects)
 
 ![Image](./FormValidator.png)
